@@ -1,0 +1,12 @@
+*_secret.json
+*_example.json
+node_modules
+uploads
+results
+public
+.env
+.firebaserc
+firebase.json
+*.log
+functions/*.env*
+database.rules.json
